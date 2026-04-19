@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   </h1>
   <p align="center">
-    I am a Front-end Web Developer, I started my apprenticeship not so long ago. I continue to learn and increase my performance in the field. I am able to execute several languages:
+    I am a <strong>Front-end Web Developer</strong>, I started my apprenticeship not so long ago. I continue to learn and increase my performance in the field. I am able to execute several languages:
   <br><img src="https://skillicons.dev/icons?i=react"/> <img src="https://skillicons.dev/icons?i=ts"/> <img src="https://skillicons.dev/icons?i=tailwind"/> 
     <br>For now
   </p>
