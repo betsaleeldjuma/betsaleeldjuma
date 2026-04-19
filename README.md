@@ -1,13 +1,13 @@
-<h1 align="center">Hi &#128075, I'm Bestaleel DJUMA
+<h1 align="center">Hello &#128075, I'm Bestaleel DJUMA
 <div align="center>
   <h1 align="center">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   </h1>
   <p align="center">
-    I am a Front-end Web Developer, I started my apprenticeship not so long ago. I continue to learn and increase my performance in the field. I am able to execute several languages ​​for example HTML, CSS, JavaScript:
-  <br><img src="https://skillicons.dev/icons?i=js,html,css"/>
+    I am a Front-end Web Developer, I started my apprenticeship not so long ago. I continue to learn and increase my performance in the field. I am able to execute several languages:
+  <br><img src="https://skillicons.dev/icons?i=react"/> <img src="https://skillicons.dev/icons?i=ts"/> <img src="https://skillicons.dev/icons?i=tailwind"/> 
     <br>For now
   </p>
 </div>
